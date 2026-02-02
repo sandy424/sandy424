@@ -1,11 +1,11 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=f7c5dd&height=120&text=Welcome%20to%20my%20world!&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=f7c5dd&height=120&text=Welcome%20to%20minseo's%20world!&animation=fadeIn&fontColor=ffffff&fontSize=40" />
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduce myself </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> React(+Vite)기반 웹 개발을 중심으로 공부하고 있으며, UI/UX에 강한 관심을 가지고 사용자가 편하게 느끼는 웹 서비스를 만드는 것을 목표로 하고 있습니다. </div> 
+    <div align= "left"> 
+    <h2 style=": 1px solid #d8dee4; color: #282d33;"> Introduce myself </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33; margin-bottom: 15px;"> React(+Vite)기반 웹 개발을 중심으로 공부하고 있으며, UI/UX에 강한 관심을 가지고 사용자가 편하게 느끼는 웹 서비스를 만드는 것을 목표로 하고 있습니다. </div> 
     </div>
-    <div align= "center">
+    <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
@@ -20,7 +20,7 @@
           <br/><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           </div>
     </div>
-    <div align= "center">
+    <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://blog.naver.com/dlsvmvl408> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/dlsvmvl408"> </a>
          <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
