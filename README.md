@@ -3,7 +3,7 @@
     </div>
     <div align= "left"> 
     <h2 style=": 1px solid #d8dee4; color: #282d33;"> Introduce myself </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33; margin-bottom: 15px;"> React(+Vite)기반 웹 개발을 중심으로 공부하고 있으며, UI/UX에 강한 관심을 가지고 사용자가 편하게 느끼는 웹 서비스를 만드는 것을 목표로 하고 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33; margin-bottom: 15px;"> React기반 웹 개발을 중심으로 공부하고 있으며, UI/UX에 강한 관심을 가지고 사용자가 편하게 느끼는 웹 서비스를 만드는 것을 목표로 하고 있습니다. </div> 
     </div>
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
