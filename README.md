@@ -22,7 +22,6 @@
     </div>
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://blog.naver.com/dlsvmvl408> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/dlsvmvl408"> </a>
          <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
          <a href=mailto:ming9boo@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ming9boo@gmail.com"> </a>
           </div>  <br> 
